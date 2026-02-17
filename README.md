@@ -39,14 +39,14 @@ The agent:
 * LLM Provider: Groq (LLaMA 3.1)
 * Frontend: HTML, CSS
 
-daily-task-planner/
+* daily-task-planner/
 │
-├── app.py                # Flask application & agent logic
-├── requirements.txt      # Project dependencies
-├── README.md             # Project documentation
+├── app.py                * Flask application & agent logic
+├── requirements.txt      * Project dependencies
+├── README.md             * Project documentation
 │
 ├── templates/
-│   └── index.html        # Web interface
+│   └── index.html        * Web interface
 │
 └── static/
-    └── style.css         # Styling
+    └── style.css         * Styling
