@@ -43,13 +43,14 @@ The agent:
 
 ```text
 daily-task-planner/
-├── app.py
-├── requirements.txt
-├── README.md
+├── app.py                  # Flask application & agent logic
+├── requirements.txt        # Project dependencies
+├── README.md               # Project documentation
 │
 ├── templates/
-│   └── index.html
+│   └── index.html          # Web interface
 │
 └── static/
-    └── style.css
+    └── style.css           # Styling
+
 
